@@ -1,0 +1,35 @@
+************** Para 25 movimientos random *******************
+
+A* (Manhattan):
+	Media            = 13.1667
+	Mediana          = 197.5
+	Desvest(Media)   = 196.65
+	Desvest(Mediana) = 68.5
+A* (CheaterChild):
+	Media            = 121796
+	Mediana          = 1.82694e+006
+	Desvest(Media)   = 2.49726e+006
+	Desvest(Mediana) = 1.8245e+006
+Iterative Deepening Search:
+	Media            = 2.35735e+007
+	Mediana          = 3.53602e+008
+	Desvest(Media)   = 4.79665e+008
+	Desvest(Mediana) = 3.4808e+008
+
+
+A* (Manhattan):
+	Media            = 50.0667
+	Mediana          = 197.5
+	Desvest(Media)   = 624.491
+	Desvest(Mediana) = 528.07
+A* (CheaterChild):
+	Media            = 154673
+	Mediana          = 494370
+	Desvest(Media)   = 2.07703e+006
+	Desvest(Mediana) = 1.86647e+006
+Iterative Deepening Search:
+	Media            = 2.42706e+007
+	Mediana          = 1.32183e+007
+	Desvest(Media)   = 3.91258e+008
+	Desvest(Mediana) = 3.97535e+008
+
